@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Illustration of a written concrete project estimate on a clipboard with a hard hat">
+  <rect width="1200" height="675" fill="#55636C"/>
+  <rect x="330" y="80" width="540" height="520" fill="#23241F"/>
+  <rect x="350" y="100" width="500" height="480" fill="#FAF9F6"/>
+  <rect x="530" y="60" width="140" height="60" rx="10" fill="#8E9AA3"/>
+  <text x="600" y="180" font-family="monospace" font-size="34" fill="#23241F" text-anchor="middle">FREE ESTIMATE</text>
+  <line x1="400" y1="230" x2="800" y2="230" stroke="#B8B3A6" stroke-width="4"/>
+  <line x1="400" y1="290" x2="800" y2="290" stroke="#B8B3A6" stroke-width="4"/>
+  <line x1="400" y1="350" x2="800" y2="350" stroke="#B8B3A6" stroke-width="4"/>
+  <line x1="400" y1="410" x2="680" y2="410" stroke="#B8B3A6" stroke-width="4"/>
+  <rect x="400" y="470" width="180" height="60" fill="#D64F1E"/>
+  <text x="490" y="508" font-family="monospace" font-size="24" fill="#FAF9F6" text-anchor="middle">SIGN HERE</text>
+  <g>
+    <path d="M880 520 a90 60 0 0 1 180 0 z" fill="#F2B705"/>
+    <rect x="850" y="516" width="240" height="26" rx="10" fill="#D9A705"/>
+  </g>
+  <rect x="0" y="655" width="1200" height="20" fill="#23241F"/>
+</svg>

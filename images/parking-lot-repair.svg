@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Illustration of a concrete crew saw-cutting and patching a damaged parking lot section">
+  <rect width="1200" height="675" fill="#ECEAE4"/>
+  <rect width="1200" height="140" fill="#55636C"/>
+  <rect y="140" width="1200" height="535" fill="#B8B3A6"/>
+  <rect x="120" y="200" width="960" height="400" fill="#D9D5CA"/>
+  <path d="M320 250 L370 330 L340 420 L400 520" stroke="#6E6A5E" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M340 300 L290 380" stroke="#6E6A5E" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <rect x="560" y="280" width="340" height="240" fill="#ECEAE4" stroke="#23241F" stroke-width="5"/>
+  <text x="730" y="410" font-family="monospace" font-size="34" fill="#55636C" text-anchor="middle">NEW POUR</text>
+  <g stroke="#F2B705" stroke-width="12">
+    <line x1="170" y1="560" x2="240" y2="560"/>
+    <line x1="280" y1="560" x2="350" y2="560"/>
+    <line x1="390" y1="560" x2="460" y2="560"/>
+  </g>
+  <polygon points="1000,560 1030,480 1060,560" fill="#D64F1E"/>
+  <rect x="992" y="556" width="76" height="14" fill="#B23F14"/>
+  <rect x="1016" y="512" width="28" height="12" fill="#ECEAE4"/>
+  <rect x="0" y="655" width="1200" height="20" fill="#23241F"/>
+</svg>

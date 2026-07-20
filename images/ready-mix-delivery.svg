@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Illustration of a ready mix concrete truck delivering fresh concrete to a Houston job site">
+  <rect width="1200" height="675" fill="#ECEAE4"/>
+  <rect width="1200" height="300" fill="#7A8892"/>
+  <rect x="60" y="90" width="200" height="210" fill="#3E4A52"/>
+  <rect x="80" y="110" width="40" height="40" fill="#ECEAE4" opacity="0.6"/>
+  <rect x="140" y="110" width="40" height="40" fill="#F2B705" opacity="0.8"/>
+  <rect x="80" y="170" width="40" height="40" fill="#ECEAE4" opacity="0.6"/>
+  <rect y="300" width="1200" height="375" fill="#CFCABD"/>
+  <g>
+    <rect x="330" y="150" width="360" height="160" fill="#FAF9F6" stroke="#23241F" stroke-width="5"/>
+    <ellipse cx="510" cy="220" rx="150" ry="95" fill="#8E9AA3" stroke="#23241F" stroke-width="5"/>
+    <path d="M420 160 Q510 130 600 160" stroke="#D64F1E" stroke-width="14" fill="none"/>
+    <path d="M400 250 Q510 300 620 250" stroke="#D64F1E" stroke-width="14" fill="none"/>
+    <rect x="690" y="180" width="150" height="130" fill="#D64F1E"/>
+    <rect x="710" y="200" width="60" height="55" fill="#ECEAE4"/>
+    <circle cx="410" cy="330" r="48" fill="#23241F"/><circle cx="410" cy="330" r="20" fill="#8E9AA3"/>
+    <circle cx="560" cy="330" r="48" fill="#23241F"/><circle cx="560" cy="330" r="20" fill="#8E9AA3"/>
+    <circle cx="770" cy="330" r="48" fill="#23241F"/><circle cx="770" cy="330" r="20" fill="#8E9AA3"/>
+  </g>
+  <path d="M330 260 L230 320 L200 380 L300 380 Z" fill="#B8B3A6"/>
+  <path d="M255 340 L180 430" stroke="#8E9AA3" stroke-width="26" stroke-linecap="round"/>
+  <rect x="90" y="430" width="220" height="150" fill="#D9D5CA" stroke="#23241F" stroke-width="4"/>
+  <text x="200" y="515" font-family="monospace" font-size="26" fill="#55636C" text-anchor="middle">FRESH POUR</text>
+  <polygon points="960,560 990,480 1020,560" fill="#D64F1E"/>
+  <rect x="952" y="556" width="76" height="14" fill="#B23F14"/>
+  <rect x="976" y="512" width="28" height="12" fill="#ECEAE4"/>
+  <rect x="0" y="655" width="1200" height="20" fill="#23241F"/>
+</svg>

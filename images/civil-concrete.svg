@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Illustration of civil concrete infrastructure with a roadway, curb and gutter, and box culvert">
+  <rect width="1200" height="675" fill="#ECEAE4"/>
+  <rect width="1200" height="230" fill="#7A8892"/>
+  <rect x="0" y="230" width="1200" height="60" fill="#55636C"/>
+  <rect x="120" y="120" width="180" height="110" fill="#3E4A52"/>
+  <rect x="900" y="140" width="160" height="90" fill="#3E4A52"/>
+  <polygon points="0,675 1200,675 1200,290 0,290" fill="#B8B3A6"/>
+  <polygon points="380,675 820,675 700,290 500,290" fill="#8E9AA3"/>
+  <line x1="600" y1="330" x2="600" y2="380" stroke="#F2B705" stroke-width="10"/>
+  <line x1="600" y1="430" x2="600" y2="490" stroke="#F2B705" stroke-width="12"/>
+  <line x1="600" y1="550" x2="600" y2="630" stroke="#F2B705" stroke-width="14"/>
+  <polygon points="500,290 380,675 330,675 470,290" fill="#D9D5CA"/>
+  <polygon points="700,290 820,675 870,675 730,290" fill="#D9D5CA"/>
+  <rect x="90" y="420" width="200" height="160" fill="#D9D5CA" stroke="#23241F" stroke-width="5"/>
+  <rect x="130" y="460" width="120" height="120" fill="#23241F"/>
+  <polygon points="990,560 1020,480 1050,560" fill="#D64F1E"/>
+  <rect x="982" y="556" width="76" height="14" fill="#B23F14"/>
+  <rect x="1006" y="512" width="28" height="12" fill="#ECEAE4"/>
+  <rect x="0" y="655" width="1200" height="20" fill="#23241F"/>
+</svg>

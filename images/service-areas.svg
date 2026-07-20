@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Stylized map of the greater Houston area with markers for concrete service cities">
+  <rect width="1200" height="675" fill="#ECEAE4"/>
+  <path d="M0 500 Q200 430 380 470 T760 470 T1200 430 L1200 675 L0 675 Z" fill="#9AB0BC"/>
+  <path d="M150 80 Q400 140 520 320 T900 560" stroke="#55636C" stroke-width="22" fill="none" opacity="0.5"/>
+  <path d="M1050 60 Q820 260 640 300 T220 620" stroke="#55636C" stroke-width="16" fill="none" opacity="0.4"/>
+  <circle cx="600" cy="330" r="120" fill="none" stroke="#B8B3A6" stroke-width="10"/>
+  <circle cx="600" cy="330" r="220" fill="none" stroke="#B8B3A6" stroke-width="8" stroke-dasharray="18 14"/>
+  <g>
+    <circle cx="600" cy="330" r="26" fill="#D64F1E"/>
+    <circle cx="600" cy="330" r="10" fill="#FAF9F6"/>
+  </g>
+  <g fill="#D64F1E">
+    <circle cx="700" cy="470" r="14"/>
+    <circle cx="500" cy="480" r="14"/>
+    <circle cx="380" cy="300" r="14"/>
+    <circle cx="770" cy="230" r="14"/>
+    <circle cx="820" cy="380" r="14"/>
+    <circle cx="440" cy="180" r="14"/>
+    <circle cx="640" cy="180" r="14"/>
+    <circle cx="280" cy="420" r="14"/>
+  </g>
+  <text x="600" y="290" font-family="monospace" font-size="30" fill="#23241F" text-anchor="middle">HOUSTON</text>
+  <rect x="0" y="655" width="1200" height="20" fill="#23241F"/>
+</svg>

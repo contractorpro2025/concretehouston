@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Illustration of the Jerson's Concrete crew and ready mix truck on a Houston jobsite">
+  <rect width="1200" height="675" fill="#ECEAE4"/>
+  <rect width="1200" height="300" fill="#7A8892"/>
+  <rect y="300" width="1200" height="375" fill="#CFCABD"/>
+  <g>
+    <rect x="640" y="180" width="300" height="130" fill="#FAF9F6" stroke="#23241F" stroke-width="4"/>
+    <polygon points="700,160 900,160 860,230 740,230" fill="#D64F1E"/>
+    <rect x="940" y="220" width="120" height="90" fill="#3E4A52"/>
+    <circle cx="720" cy="330" r="42" fill="#23241F"/>
+    <circle cx="720" cy="330" r="18" fill="#8E9AA3"/>
+    <circle cx="1000" cy="330" r="42" fill="#23241F"/>
+    <circle cx="1000" cy="330" r="18" fill="#8E9AA3"/>
+  </g>
+  <g>
+    <circle cx="260" cy="300" r="34" fill="#C68863"/>
+    <path d="M220 292 a40 40 0 0 1 80 0 z" fill="#F2B705"/>
+    <rect x="216" y="340" width="88" height="130" fill="#D64F1E"/>
+    <rect x="216" y="470" width="36" height="110" fill="#3E4A52"/>
+    <rect x="268" y="470" width="36" height="110" fill="#3E4A52"/>
+  </g>
+  <g>
+    <circle cx="420" cy="320" r="34" fill="#8A5A3B"/>
+    <path d="M380 312 a40 40 0 0 1 80 0 z" fill="#F2B705"/>
+    <rect x="376" y="360" width="88" height="120" fill="#55636C"/>
+    <rect x="376" y="480" width="36" height="100" fill="#23241F"/>
+    <rect x="428" y="480" width="36" height="100" fill="#23241F"/>
+  </g>
+  <rect x="140" y="590" width="920" height="30" fill="#D9D5CA" stroke="#23241F" stroke-width="3"/>
+  <rect x="0" y="655" width="1200" height="20" fill="#23241F"/>
+</svg>

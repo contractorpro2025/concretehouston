@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Illustration of a freshly repaired concrete parking lot in Houston with new striping and safety cones">
+  <rect width="1200" height="675" fill="#55636C"/>
+  <rect y="0" width="1200" height="150" fill="#7A8892"/>
+  <rect x="80" y="30" width="180" height="120" fill="#3E4A52"/>
+  <rect x="300" y="55" width="140" height="95" fill="#3E4A52"/>
+  <rect x="95" y="45" width="30" height="30" fill="#F2B705" opacity="0.85"/>
+  <rect x="140" y="45" width="30" height="30" fill="#ECEAE4" opacity="0.6"/>
+  <rect x="95" y="90" width="30" height="30" fill="#ECEAE4" opacity="0.6"/>
+  <rect y="150" width="1200" height="525" fill="#8E9AA3"/>
+  <polygon points="0,675 1200,675 1200,150 0,150" fill="#9AA5AD"/>
+  <rect x="150" y="220" width="900" height="420" fill="#ECEAE4"/>
+  <rect x="150" y="220" width="900" height="420" fill="none" stroke="#23241F" stroke-width="4"/>
+  <line x1="450" y1="220" x2="450" y2="640" stroke="#C9C5BA" stroke-width="3"/>
+  <line x1="750" y1="220" x2="750" y2="640" stroke="#C9C5BA" stroke-width="3"/>
+  <line x1="150" y1="430" x2="1050" y2="430" stroke="#C9C5BA" stroke-width="3"/>
+  <g stroke="#F2B705" stroke-width="14">
+    <line x1="230" y1="260" x2="180" y2="400"/>
+    <line x1="340" y1="260" x2="290" y2="400"/>
+    <line x1="450" y1="260" x2="400" y2="400"/>
+    <line x1="560" y1="260" x2="510" y2="400"/>
+    <line x1="670" y1="260" x2="620" y2="400"/>
+  </g>
+  <rect x="790" y="290" width="200" height="100" fill="#D9D5CA"/>
+  <rect x="790" y="290" width="200" height="100" fill="none" stroke="#23241F" stroke-width="3" stroke-dasharray="10 8"/>
+  <g>
+    <polygon points="850,540 880,470 910,540" fill="#D64F1E"/>
+    <rect x="842" y="536" width="76" height="14" fill="#B23F14"/>
+    <rect x="866" y="495" width="28" height="12" fill="#ECEAE4"/>
+  </g>
+  <g>
+    <polygon points="700,600 730,530 760,600" fill="#D64F1E"/>
+    <rect x="692" y="596" width="76" height="14" fill="#B23F14"/>
+    <rect x="716" y="555" width="28" height="12" fill="#ECEAE4"/>
+  </g>
+  <rect x="0" y="655" width="1200" height="20" fill="#23241F"/>
+</svg>

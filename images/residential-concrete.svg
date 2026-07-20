@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Illustration of a Houston home with a new concrete slab foundation and driveway">
+  <rect width="1200" height="675" fill="#ECEAE4"/>
+  <rect width="1200" height="320" fill="#9AB0BC"/>
+  <polygon points="330,150 640,60 950,150" fill="#B23F14"/>
+  <rect x="380" y="150" width="520" height="170" fill="#FAF9F6" stroke="#23241F" stroke-width="4"/>
+  <rect x="430" y="190" width="90" height="80" fill="#55636C"/>
+  <rect x="760" y="190" width="90" height="80" fill="#55636C"/>
+  <rect x="600" y="200" width="80" height="120" fill="#23241F"/>
+  <rect x="360" y="320" width="560" height="34" fill="#D9D5CA" stroke="#23241F" stroke-width="4"/>
+  <text x="640" y="345" font-family="monospace" font-size="22" fill="#55636C" text-anchor="middle">SLAB-ON-GRADE FOUNDATION</text>
+  <rect y="354" width="1200" height="321" fill="#CFCABD"/>
+  <polygon points="560,354 720,354 900,675 380,675" fill="#D9D5CA"/>
+  <line x1="590" y1="354" x2="470" y2="675" stroke="#B8B3A6" stroke-width="3"/>
+  <line x1="640" y1="420" x2="640" y2="470" stroke="#B8B3A6" stroke-width="3"/>
+  <line x1="605" y1="470" x2="800" y2="470" stroke="#B8B3A6" stroke-width="3"/>
+  <line x1="590" y1="580" x2="860" y2="580" stroke="#B8B3A6" stroke-width="3"/>
+  <g fill="#7B9E6B">
+    <circle cx="180" cy="430" r="46"/>
+    <rect x="170" y="460" width="20" height="70"/>
+    <circle cx="1030" cy="430" r="46"/>
+    <rect x="1020" y="460" width="20" height="70"/>
+  </g>
+  <rect x="0" y="655" width="1200" height="20" fill="#23241F"/>
+</svg>
