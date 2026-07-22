@@ -44,7 +44,7 @@ FOOTER = """<footer class="site-footer">
     </div>
   </div>
   <div class="wrap fineprint">
-    <p>&copy; 2026 Jerson's Concrete Houston Parking Lot Repair. All rights reserved. &middot; <a href="/sitemap.xml">Sitemap</a></p>
+    <p>&copy; 2026 Jerson's Concrete Houston Parking Lot Repair. All rights reserved. &middot; <a href="/privacy-policy.html">Privacy Policy</a> &middot; <a href="/terms-conditions.html">Terms &amp; Conditions</a> &middot; <a href="/sitemap.xml">Sitemap</a></p>
   </div>
 </footer>
 
@@ -638,6 +638,135 @@ PAGES["/ready-mix-delivery.html"] = dict(
 </section>
 """
     + ESTIMATE_BAND,
+)
+
+# ---------------- PRIVACY POLICY ----------------
+PAGES["/privacy-policy.html"] = dict(
+    title="Privacy Policy | Jerson's Concrete Houston Parking Lot Repair",
+    desc="Privacy policy for Jerson's Concrete Houston Parking Lot Repair: what information we collect through our estimate form, how we use it, and your rights.",
+    og_image="/images/document-legal.svg",
+    breadcrumb="Privacy Policy",
+    extra_head='<meta name="robots" content="index, follow">',
+    body="""<section class="hero">
+  <div class="wrap two-col">
+    <div>
+      <span class="eyebrow">Legal</span>
+      <h1>Privacy Policy</h1>
+      <p class="lede">This page explains what information we collect when you contact us or request an estimate, and how we use it. Last updated July 2026.</p>
+    </div>
+    <div class="col-media">
+      <img src="/images/document-legal.svg" alt="Illustration of a signed document representing our privacy policy" width="1200" height="675" loading="eager">
+    </div>
+  </div>
+</section>
+
+<hr class="joint">
+
+<section class="section">
+  <div class="wrap">
+    <h2>Who This Policy Covers</h2>
+    <p>This policy applies to visitors of concretehouston.org, operated by Jerson's Concrete Houston Parking Lot Repair ("we," "us," "our"). It describes what information we collect through this website and how we handle it.</p>
+
+    <h2>Information We Collect</h2>
+    <p>When you submit our estimate request form, we collect the information you provide: your name, phone number, email address, project city, project type, timeline, and project details. We do not require you to create an account, and we do not collect payment information through this website.</p>
+    <p>If you call the phone number listed on this site, that call is handled by our phone carrier, not by this website.</p>
+
+    <h2>How We Use Your Information</h2>
+    <ul class="check-list">
+      <li>To respond to your estimate request and schedule a site visit</li>
+      <li>To communicate with you about your project</li>
+      <li>To keep basic business records of inquiries and jobs</li>
+    </ul>
+    <p>We do not sell your information, and we do not use it for advertising or marketing unrelated to your inquiry.</p>
+
+    <h2>Third-Party Services We Use</h2>
+    <p>Our estimate form is processed by <strong>Formspree</strong>, a third-party form service, which delivers your submission to our email. Our contact page also embeds a <strong>Google Maps</strong> map. Our website is hosted through <strong>GitHub Pages</strong> and served through <strong>Cloudflare</strong>, which provides security and performance services and may set minimal technical cookies as part of that process. Each of these providers has its own privacy policy governing how it handles data that passes through its service.</p>
+
+    <h2>Cookies</h2>
+    <p>This website does not use cookies for advertising or tracking. Cloudflare, our security and hosting provider, may set a small number of cookies strictly needed to keep the site secure and running properly. If you interact with the embedded Google Map, Google may set its own cookies under its own privacy policy.</p>
+
+    <h2>Data Retention</h2>
+    <p>We keep estimate requests and related communication for as long as reasonably needed to respond to your inquiry, complete a project, and maintain normal business records.</p>
+
+    <h2>Your Rights</h2>
+    <p>You can ask us what information we have about you, ask us to correct it, or ask us to delete it, by calling <a href="tel:281-671-4809">281-671-4809</a> or using our <a href="/contact.html">contact form</a>.</p>
+
+    <h2>Children's Privacy</h2>
+    <p>This website is intended for adults seeking concrete construction and repair services. We do not knowingly collect information from children under 13.</p>
+
+    <h2>Changes to This Policy</h2>
+    <p>We may update this policy from time to time. Changes will be posted on this page with an updated date.</p>
+
+    <h2>Contact Us</h2>
+    <p>Jerson's Concrete Houston Parking Lot Repair<br>
+    11200 Fuqua St, Houston, TX 77089<br>
+    <a href="tel:281-671-4809">281-671-4809</a></p>
+  </div>
+</section>
+""",
+)
+
+# ---------------- TERMS & CONDITIONS ----------------
+PAGES["/terms-conditions.html"] = dict(
+    title="Terms &amp; Conditions | Jerson's Concrete Houston Parking Lot Repair",
+    desc="Terms and conditions for using the Jerson's Concrete Houston Parking Lot Repair website, including how our free estimates and quotes work.",
+    og_image="/images/document-legal.svg",
+    breadcrumb="Terms & Conditions",
+    extra_head='<meta name="robots" content="index, follow">',
+    body="""<section class="hero">
+  <div class="wrap two-col">
+    <div>
+      <span class="eyebrow">Legal</span>
+      <h1>Terms &amp; Conditions</h1>
+      <p class="lede">The terms below cover use of this website and how our free estimates work. They do not replace a signed project contract. Last updated July 2026.</p>
+    </div>
+    <div class="col-media">
+      <img src="/images/document-legal.svg" alt="Illustration of a signed document representing our terms and conditions" width="1200" height="675" loading="eager">
+    </div>
+  </div>
+</section>
+
+<hr class="joint">
+
+<section class="section">
+  <div class="wrap">
+    <h2>Acceptance of Terms</h2>
+    <p>By using concretehouston.org, you agree to these terms. If you do not agree, please don't use this website; you're still welcome to call us directly at <a href="tel:281-671-4809">281-671-4809</a>.</p>
+
+    <h2>This Website Is Informational</h2>
+    <p>Content on this site &mdash; including service descriptions, service areas, and FAQ answers &mdash; is provided for general information. Submitting our estimate form or calling us does not, by itself, create a contract for work. A project only becomes official once we agree on scope and price in writing.</p>
+
+    <h2>Estimates &amp; Pricing</h2>
+    <p>Estimates we provide are free and offered in good faith based on the information and site conditions available at the time. Written estimates are typically valid for 30 days. Final pricing is confirmed in a written agreement before work begins, and may change if site conditions, scope, or material costs change materially once work starts.</p>
+
+    <h2>Scheduling</h2>
+    <p>We do our best to meet the schedules we quote, but concrete work is affected by weather, material and ready-mix availability, permitting, and inspections. We'll communicate promptly if a schedule needs to shift.</p>
+
+    <h2>Intellectual Property</h2>
+    <p>The text, photos, and design on this website belong to Jerson's Concrete Houston Parking Lot Repair unless otherwise noted, and may not be copied or reused without our permission.</p>
+
+    <h2>Third-Party Links &amp; Embedded Services</h2>
+    <p>This site links to and embeds services we don't control, including Google Maps and our Formspree-powered contact form. We aren't responsible for the content, availability, or practices of those third-party services.</p>
+
+    <h2>No Warranty on Website Content</h2>
+    <p>This website is provided "as is." While we try to keep information accurate and current, we don't guarantee the site will be error-free or uninterrupted.</p>
+
+    <h2>Limitation of Liability</h2>
+    <p>To the extent allowed by law, Jerson's Concrete Houston Parking Lot Repair is not liable for damages arising from your use of this website. This does not limit any warranty or liability terms in a separately signed project contract.</p>
+
+    <h2>Governing Law</h2>
+    <p>These terms are governed by the laws of the State of Texas.</p>
+
+    <h2>Changes to These Terms</h2>
+    <p>We may update these terms from time to time. Changes will be posted on this page with an updated date.</p>
+
+    <h2>Contact Us</h2>
+    <p>Jerson's Concrete Houston Parking Lot Repair<br>
+    11200 Fuqua St, Houston, TX 77089<br>
+    <a href="tel:281-671-4809">281-671-4809</a></p>
+  </div>
+</section>
+""",
 )
 
 # ---------------- SERVICE AREAS ----------------

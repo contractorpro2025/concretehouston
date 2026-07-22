@@ -30,3 +30,5 @@ with phasing so the property stays usable.
 - [Service Areas](https://www.concretehouston.org/service-areas.html): full city list
 - [About](https://www.concretehouston.org/about.html): company history and values
 - [Contact / Free Estimate](https://www.concretehouston.org/contact.html): estimate form, address, map
+- [Privacy Policy](https://www.concretehouston.org/privacy-policy.html)
+- [Terms & Conditions](https://www.concretehouston.org/terms-conditions.html)
