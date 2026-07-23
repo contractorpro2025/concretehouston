@@ -38,10 +38,6 @@ FOOTER = """<footer class="site-footer">
         <li><a href="/contact.html">Request an Estimate</a></li>
       </ul>
     </div>
-    <div class="footer-map">
-      <h2>Our Location</h2>
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d221667.17747729734!2d-95.51743001362001!3d29.761744277271248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864099e6f4100001%3A0xb792829c2418bfb7!2sJerson%E2%80%99s%20Concrete%20Houston%20Parking%20Lot%20Repair!5e0!3m2!1sen!2sus!4v1784423699468!5m2!1sen!2sus" title="Map of Jerson's Concrete Houston Parking Lot Repair" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-    </div>
   </div>
   <div class="wrap fineprint">
     <p>&copy; 2026 Jerson's Concrete Houston Parking Lot Repair. All rights reserved. &middot; <a href="/privacy-policy.html">Privacy Policy</a> &middot; <a href="/terms-conditions.html">Terms &amp; Conditions</a> &middot; <a href="/sitemap.xml">Sitemap</a></p>
@@ -86,6 +82,8 @@ def page(path, title, desc, og_image, extra_head, body, breadcrumb_name):
 <title>{title}</title>
 <meta name="description" content="{desc}">
 <link rel="canonical" href="{DOMAIN}{path}">
+<link rel="icon" type="image/jpeg" href="/images/favicon.jpg">
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.jpg">
 <meta property="og:type" content="website">
 <meta property="og:title" content="{title}">
 <meta property="og:description" content="{desc}">
@@ -680,10 +678,10 @@ PAGES["/privacy-policy.html"] = dict(
     <p>We do not sell your information, and we do not use it for advertising or marketing unrelated to your inquiry.</p>
 
     <h2>Third-Party Services We Use</h2>
-    <p>Our estimate form is processed by <strong>Formspree</strong>, a third-party form service, which delivers your submission to our email. Our contact page also embeds a <strong>Google Maps</strong> map. Our website is hosted through <strong>GitHub Pages</strong> and served through <strong>Cloudflare</strong>, which provides security and performance services and may set minimal technical cookies as part of that process. Each of these providers has its own privacy policy governing how it handles data that passes through its service.</p>
+    <p>Our estimate form is processed by <strong>Formspree</strong>, a third-party form service, which delivers your submission to our email. Our website is hosted through <strong>GitHub Pages</strong> and served through <strong>Cloudflare</strong>, which provides security and performance services and may set minimal technical cookies as part of that process. Each of these providers has its own privacy policy governing how it handles data that passes through its service.</p>
 
     <h2>Cookies</h2>
-    <p>This website does not use cookies for advertising or tracking. Cloudflare, our security and hosting provider, may set a small number of cookies strictly needed to keep the site secure and running properly. If you interact with the embedded Google Map, Google may set its own cookies under its own privacy policy.</p>
+    <p>This website does not use cookies for advertising or tracking. Cloudflare, our security and hosting provider, may set a small number of cookies strictly needed to keep the site secure and running properly.</p>
 
     <h2>Data Retention</h2>
     <p>We keep estimate requests and related communication for as long as reasonably needed to respond to your inquiry, complete a project, and maintain normal business records.</p>
@@ -699,8 +697,8 @@ PAGES["/privacy-policy.html"] = dict(
 
     <h2>Contact Us</h2>
     <p>Jerson's Concrete Houston Parking Lot Repair<br>
-    11200 Fuqua St, Houston, TX 77089<br>
-    <a href="tel:281-671-4809">281-671-4809</a></p>
+    <a href="tel:281-671-4809">281-671-4809</a><br>
+    Mailing address available on our <a href="/contact.html">Contact page</a>.</p>
   </div>
 </section>
 """,
@@ -762,8 +760,8 @@ PAGES["/terms-conditions.html"] = dict(
 
     <h2>Contact Us</h2>
     <p>Jerson's Concrete Houston Parking Lot Repair<br>
-    11200 Fuqua St, Houston, TX 77089<br>
-    <a href="tel:281-671-4809">281-671-4809</a></p>
+    <a href="tel:281-671-4809">281-671-4809</a><br>
+    Mailing address available on our <a href="/contact.html">Contact page</a>.</p>
   </div>
 </section>
 """,
@@ -907,7 +905,7 @@ PAGES["/about.html"] = dict(
 # ---------------- CONTACT ----------------
 PAGES["/contact.html"] = dict(
     title="Request a Free Concrete Estimate | Jerson's Concrete Houston",
-    desc="Request a free estimate from Jerson's Concrete Houston Parking Lot Repair. Call 281-671-4809 or send the form. 11200 Fuqua St, Houston, TX 77089.",
+    desc="Request a free estimate from Jerson's Concrete Houston Parking Lot Repair. Call 281-671-4809 or send the form. Mailing address: 11200 Fuqua St #1200, Houston, TX 77089.",
     og_image="/images/contact-estimate.svg",
     breadcrumb="Contact Us",
     extra_head="""<script type="application/ld+json">
@@ -995,13 +993,12 @@ PAGES["/contact.html"] = dict(
       <div class="col-media">
         <img src="/images/contact-estimate.svg" alt="Free written concrete estimate on a clipboard with a hard hat" width="1200" height="675" loading="eager">
       </div>
-      <h2 style="margin-top:1.5rem;">Visit or Call</h2>
+      <h2 style="margin-top:1.5rem;">Call or Write</h2>
       <p><strong>Jerson's Concrete Houston Parking Lot Repair</strong><br>
-      11200 Fuqua St<br>
-      Houston, TX 77089<br>
       <a href="tel:281-671-4809">281-671-4809</a></p>
-      <p><a href="https://maps.app.goo.gl/TdP5XurEcnBgiJF19" rel="noopener">Open in Google Maps</a></p>
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d221667.17747729734!2d-95.51743001362001!3d29.761744277271248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864099e6f4100001%3A0xb792829c2418bfb7!2sJerson%E2%80%99s%20Concrete%20Houston%20Parking%20Lot%20Repair!5e0!3m2!1sen!2sus!4v1784423699468!5m2!1sen!2sus" width="400" height="300" style="border:0; width:100%;" allowfullscreen loading="lazy" referrerpolicy="strict-origin-when-cross-origin" title="Map to Jerson's Concrete at 11200 Fuqua St, Houston TX 77089"></iframe>
+      <p class="note">Mailing Address:<br>
+      11200 Fuqua St #1200<br>
+      Houston, TX 77089</p>
     </div>
   </div>
 </section>
