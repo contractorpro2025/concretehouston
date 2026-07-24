@@ -678,10 +678,10 @@ PAGES["/privacy-policy.html"] = dict(
     <p>We do not sell your information, and we do not use it for advertising or marketing unrelated to your inquiry.</p>
 
     <h2>Third-Party Services We Use</h2>
-    <p>Our estimate form is processed by <strong>Formspree</strong>, a third-party form service, which delivers your submission to our email. Our website is hosted through <strong>GitHub Pages</strong> and served through <strong>Cloudflare</strong>, which provides security and performance services and may set minimal technical cookies as part of that process. Each of these providers has its own privacy policy governing how it handles data that passes through its service.</p>
+    <p>Our estimate form is processed by <strong>Formspree</strong>, a third-party form service, which delivers your submission to our email. Our contact page also embeds a <strong>Google Maps</strong> map. Our website is hosted through <strong>GitHub Pages</strong> and served through <strong>Cloudflare</strong>, which provides security and performance services and may set minimal technical cookies as part of that process. Each of these providers has its own privacy policy governing how it handles data that passes through its service.</p>
 
     <h2>Cookies</h2>
-    <p>This website does not use cookies for advertising or tracking. Cloudflare, our security and hosting provider, may set a small number of cookies strictly needed to keep the site secure and running properly.</p>
+    <p>This website does not use cookies for advertising or tracking. Cloudflare, our security and hosting provider, may set a small number of cookies strictly needed to keep the site secure and running properly. If you interact with the embedded Google Map, Google may set its own cookies under its own privacy policy.</p>
 
     <h2>Data Retention</h2>
     <p>We keep estimate requests and related communication for as long as reasonably needed to respond to your inquiry, complete a project, and maintain normal business records.</p>
@@ -999,6 +999,7 @@ PAGES["/contact.html"] = dict(
       <p class="note">Mailing Address:<br>
       11200 Fuqua St #1200<br>
       Houston, TX 77089</p>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3468.6771204700867!2d-95.2191445!3d29.613070999999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864099e6f4100001%3A0xb792829c2418bfb7!2sJerson%E2%80%99s%20Concrete%20Houston%20Parking%20Lot%20Repair!5e0!3m2!1sen!2sus!4v1784846809488!5m2!1sen!2sus" width="400" height="300" style="border:0; width:100%; margin-top:1rem;" allowfullscreen loading="lazy" referrerpolicy="strict-origin-when-cross-origin" title="Jerson's Concrete Houston Parking Lot Repair on Google Maps"></iframe>
     </div>
   </div>
 </section>
